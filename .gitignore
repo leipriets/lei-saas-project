@@ -44,3 +44,6 @@ yarn-debug.log*
 
 # VSCode Local History
 /.history/*
+
+# Environment
+.env
